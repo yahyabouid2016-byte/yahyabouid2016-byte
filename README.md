@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - Pronouns: ...
 - Fun fact: ...
 -->
-# 💫 About Me:
+# About Me:
 I'm currently working on: Deploying enterprise network infrastructures, Linux servers, and IT automation workflows.<br><br>I'm looking to collaborate on: Open-source system administration, network automation, and cybersecurity projects.<br><br>I'm looking for help with: Advanced routing protocols or complex containerized environments.<br><br>I'm currently learning: Cybersecurity hardening, advanced Linux scripting, and cloud infrastructures.<br><br>Ask me about: Cisco routing/switching, Linux server administration, virtualization, and networking.<br><br>Fun fact: I love writing scripts to automate routine system tasks and troubleshooting hard network issues
 
 
